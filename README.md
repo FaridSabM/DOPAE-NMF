@@ -1,8 +1,8 @@
 # DOPAE-NMF
 
-# This repository provides an implementation for the paper:
-# DOPAE-NMF: Deep Oblique Projective Autoencoder-Like Non-negative Matrix Factorization For Robust Image Clustering
-# Yasin Hashemi-Nazari, Farid Saberi-Movahed, Azita Tajaddini, Catarina Moreira
+This repository provides an implementation for the paper:
+DOPAE-NMF: Deep Oblique Projective Autoencoder-Like Non-negative Matrix Factorization For Robust Image Clustering
+Yasin Hashemi-Nazari, Farid Saberi-Movahed, Azita Tajaddini, Catarina Moreira
 
 # Description:
 
@@ -26,14 +26,16 @@ Y. Hashemi-Nazari, F. Saberi-Movahed, A. Tajaddini, C. Catarina Moreira, Deep Ob
 This codebase has been implemented in Python (2026). To run the project, simply execute the file main.py and follow the printed outputs in the console.
 The project structure is organized as follows:
 
-# main.py – Entry point of the program.
-# DOPAE‑NMF.py – Core model implementation.
-# Preprocessing.py – Data preparation and preprocessing utilities.
-# Libraries.py – Supporting functions and shared utilities.
+main.py – Entry point of the program.
+DOPAE‑NMF.py – Core model implementation.
+Preprocessing.py – Data preparation and preprocessing utilities.
+Libraries.py – Supporting functions and shared utilities.
 
 # Contact
 If you have any questions about the method, the implementation, or potential research collaborations, feel free to contact us.
+
 Farid Saberi-Movahed
+
 Email: f.saberimovahed@kgut.ac.ir; fdsaberi@gmail.com
 Farid Saberi-Movahed
 Email: f.saberimovahed@kgut.ac.ir; fdsaberi@gmail.com
